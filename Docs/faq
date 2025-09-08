@@ -1,0 +1,16 @@
+# FAQ – Politímetro
+
+**1. O que é o Politímetro?**  
+Plataforma que organiza e analisa dados públicos da Câmara dos Deputados, permitindo avaliação e acompanhamento da atuação parlamentar.
+
+**2. Qual a diferença entre plano gratuito e premium?**  
+O gratuito permite acesso básico; o premium desbloqueia relatórios detalhados, filtros avançados, perfil completo dos deputados e o programa de promotores.
+
+**3. Como funciona o programa de promotores?**  
+Usuários premium indicam amigos usando um token exclusivo e recebem comissão mensal enquanto os indicados mantiverem assinatura.
+
+**4. De onde vêm os dados?**  
+Todos os dados são coletados via API oficial da Câmara dos Deputados e atualizados periodicamente.
+
+**5. Como posso me tornar premium?**  
+No site [politimetro.com.br](https://politimetro.com.br), você escolhe o plano e realiza o pagamento via Mercado Pago.

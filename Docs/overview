@@ -1,0 +1,21 @@
+# Guia Técnico Simplificado do Politímetro
+
+O Politímetro é construído com tecnologias consolidadas, garantindo escalabilidade e segurança.
+
+## Tecnologias
+- PHP 8.2
+- Laravel 10
+- MySQL
+- Blade + Tailwind CSS
+- Alpine.js
+
+## Integrações
+- **API da Câmara dos Deputados**: coleta automática de dados sobre despesas, fornecedores e atuação parlamentar.
+- **Mercado Pago**: gestão de assinaturas, pagamentos recorrentes e segurança financeira.
+
+## Arquitetura Conceitual
+1. Coleta periódica dos dados da Câmara.
+2. Armazenamento no banco MySQL.
+3. Dashboard e relatórios gerados dinamicamente pelo Laravel + Blade.
+4. Front-end interativo via Alpine.js.
+5. Gestão de assinaturas e pagamentos via Mercado Pago.

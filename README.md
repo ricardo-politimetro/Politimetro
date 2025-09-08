@@ -35,7 +35,7 @@ O repositório contém materiais completos sobre o Politímetro:
 ## 🔧 Tecnologias e Integrações
 
 - **PHP 8.2** – back-end robusto.  
-- **Laravel 10** – framework escalável e seguro.  
+- **Laravel 11** – framework escalável e seguro.  
 - **MySQL** – banco de dados relacional para usuários e dados parlamentares.  
 - **Blade + Tailwind CSS** – templates dinâmicos e interface responsiva.  
 - **Alpine.js** – interatividade leve no front-end.
